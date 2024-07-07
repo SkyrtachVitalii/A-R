@@ -403,6 +403,8 @@ header {
 
 footer {
     overflow: hidden;
+    max-width: 380px;
+    width: 100%;
 }
 
 .footer__decoration {
