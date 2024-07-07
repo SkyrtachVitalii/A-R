@@ -316,7 +316,6 @@ header {
     width: 90%;
     margin: 18px 16px;
     background-color: rgba(206, 185, 151, 0.5);
-    /* opacity: 0.6; */
     border: 1px solid #fff;
 }
 
@@ -350,8 +349,6 @@ header {
 
 .moreInfo {
     padding: 44px 0 8px;
-    /* display: flex;
-    justify-content: center; */
 }
 
 .moreInfo__heading {
