@@ -299,6 +299,12 @@ header {
     z-index: 100;
 }
 
+.map{
+    max-width: 380px;
+    width: 100%;
+    margin: 0 auto;
+}
+
 .mapBg {
     background-image: url("../images/mapBg.png");
     overflow: hidden;
@@ -405,6 +411,7 @@ footer {
     overflow: hidden;
     max-width: 380px;
     width: 100%;
+    margin: 0 auto;
 }
 
 .footer__decoration {
